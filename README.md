@@ -1,2 +1,6 @@
-#My first
-This is my bio for learn about html java script css and md
+# My first bio
+This is my a little bit bio for learn about 
+- html
+- css
+- JavaScript
+- github and git
