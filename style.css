@@ -1,3 +1,9 @@
+#outline {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
 body {
     background-color: rgb(250, 240, 240);
     color: rgb(0, 0, 0);
@@ -37,11 +43,4 @@ button {
 
 #lasttext {
     font-size: 12px;
-}
-
-#outline {
-    margin-left: 30px;
-    margin-bottom: 10px;
-    font-size: 25px;
-    text-decoration: none;
 }
