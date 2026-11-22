@@ -1,9 +1,4 @@
-#outline {
-    margin-left: 30px;
-    margin-bottom: 10px;
-    font-size: 25px;
-    text-decoration: none;
-}
+
 body {
     background-color: rgb(250, 240, 240);
     color: rgb(0, 0, 0);
@@ -22,7 +17,7 @@ body {
     margin-bottom: 30px;
     border: 3.5px solid rgb(0, 0, 0);
     box-shadow: 10px 10px 15px rgb(93, 88, 88);
-
+    
 }
 
 #header {
@@ -44,3 +39,16 @@ button {
 #lasttext {
     font-size: 12px;
 }
+
+#outline {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(50, 41, 216);
+}
+
+#outline:hover{
+    color: rgb(15, 8, 149);
+    text-decoration:underline;
+}                                       
