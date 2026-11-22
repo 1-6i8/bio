@@ -1,11 +1,11 @@
 body {
     background-color: rgb(250, 240, 240);
     color: rgb(0, 0, 0);
+    font-family: system-ui;
 }
 
 #g1 {
     display: block;
-    font-family: system-ui;
     background-color: rgb(187, 250, 247);
     width: 700px;
     height: 350px;
@@ -13,8 +13,10 @@ body {
     padding-top: 25px;
     margin-left: 50px;
     margin-top: 50px;
+    margin-bottom: 30px;
     border: 3.5px solid rgb(0, 0, 0);
     box-shadow: 10px 10px 15px rgb(93, 88, 88);
+
 }
 
 #header {
@@ -31,4 +33,15 @@ button {
     width: 100px;
     height: 25px;
     font-family: system-ui;
+}
+
+#lasttext {
+    font-size: 12px;
+}
+
+#outline {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-decoration: none;
 }
